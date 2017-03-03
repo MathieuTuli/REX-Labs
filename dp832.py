@@ -1,3 +1,4 @@
+#partial credit to (github user) colinoflynn @ https://github.com/colinoflynn/dp832-gui/blob/master/dp832gui/dp832.py
 #in your command prompt, type "pip install -U pyvisa"
 #then just run this python script
 
